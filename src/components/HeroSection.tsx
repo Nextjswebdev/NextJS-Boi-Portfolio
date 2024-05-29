@@ -49,7 +49,7 @@ export default function Home() {
 
       {/* Projects Section */}
       <section className="w-full max-w-5xl mb-10 bg-white p-6 rounded-lg shadow-md">
-        <h2 className="text-2xl md:text-3xl font-semibold mb-5">Projects</h2>
+        <h2 className="text-2xl md:text-3xl font-semibold mb-5 text-black">Projects</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {[
   {
