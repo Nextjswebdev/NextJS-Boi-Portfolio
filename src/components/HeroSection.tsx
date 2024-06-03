@@ -53,9 +53,9 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
           {[
   {
-    "title": "circl8 Site",
-    "description": "A site for circl8 which helps to recycle the plastic and help the environment.",
-    "link": "https://github.com/mdkhan2024/circl8"
+    "title": "Tech Blog",
+    "description": "A simple sample of NextJS Blog site.",
+    "link": "https://github.com/Nextjswebdev/tech-blog"
   },
   {
     "title": "ExamStuffs",
